@@ -52,13 +52,3 @@ def random_phone():
 if __name__ == "__main__":
     main()
 
-# Output
-"""
-RESTART: /Users/Francisco/CS3-Nested Classes.py
-
-"""
-
-"""
-RESTART: /Users/Francisco/CS3-Nested Classes.py
-
-"""
