@@ -1,7 +1,5 @@
 """A5-08 ~ Francisco Lopez"""
 
-from array1 import Array
-
 
 class Student:
     # class constants
