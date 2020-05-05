@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c388b369-1515-4b47-a6a9-cb8e4176cec0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSIII" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WN27BltlWxAicRFTUHkB37ehke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.A5-07 student_client">
+    <configuration name="A4-09 phone_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A4-09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A4-09/A4-09 phone_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A5-06 student_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A5-06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A5-06/A5-06 student_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A5-07 student_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A5-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A5-07/A5-07 student_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\16504\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A5-05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A5-05/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSIII" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A5-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A5-07/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.A4-09 phone_client" />
+      <item itemvalue="Python.A5-06 student_client" />
+      <item itemvalue="Python.A5-07 student_client" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.A5-07 student_client" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.A5-06 student_client" />
+        <item itemvalue="Python.A4-09 phone_client" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c388b369-1515-4b47-a6a9-cb8e4176cec0" name="Default Changelist" comment="" />
+      <created>1578975562221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578975562221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578975684750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578975684750" />
+    <state x="176" y="154" key="FileChooserDialogImpl" timestamp="1580628702104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="176" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580628702104" />
+    <state width="746" height="268" key="GridCell.Tab.0.bottom" timestamp="1585119534027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585119534027" />
+    <state width="746" height="268" key="GridCell.Tab.0.center" timestamp="1585119534027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585119534027" />
+    <state width="746" height="268" key="GridCell.Tab.0.left" timestamp="1585119534027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585119534027" />
+    <state width="746" height="268" key="GridCell.Tab.0.right" timestamp="1585119534027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585119534027" />
+    <state width="745" height="208" key="GridCell.Tab.1.bottom" timestamp="1583821767753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583821767753" />
+    <state width="745" height="208" key="GridCell.Tab.1.center" timestamp="1583821767753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="208" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583821767753" />
+    <state width="745" height="208" key="GridCell.Tab.1.left" timestamp="1583821767753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="208" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583821767753" />
+    <state width="745" height="208" key="GridCell.Tab.1.right" timestamp="1583821767753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="208" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583821767753" />
+    <state x="557" y="52" key="SettingsEditor" timestamp="1585017763880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585017763880" />
+    <state x="40" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1585187556739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="40" y="300" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585187556739" />
+    <state x="53" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585105221047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="53" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585105221047" />
+  </component>
+</project>
