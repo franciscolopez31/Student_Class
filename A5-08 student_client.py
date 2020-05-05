@@ -52,3 +52,8 @@ def random_phone():
 if __name__ == "__main__":
     main()
 
+# Output
+
+"""
+Test to check push/commit command with Git. 
+"""
